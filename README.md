@@ -1,0 +1,2 @@
+# Task-5-Cyber-Security-Internship-Capstone-Project-Incident-Response-Apex-Planet
+📋 Web App Pentest (DVWA / bWAPP) • 🔎 Vulnerability Assessment of test network 🧩 Built a mini-SIEM with ELK Stack to collect &amp; detect events 🎣 Security awareness: phishing simulation &amp; training 🧭 Project plan: objectives • scope • tools • timeline • ER/network diagram ⚙ Recon → Scanning → Controlled Exploitation → Evidence &amp; Mitigations
